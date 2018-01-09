@@ -1,0 +1,84 @@
+<!--some of the "more about me" questions are in the Middle School and/or Sports/Hobbies sections-->
+<!DOCTYPE html> <!--indicates that this website is coded in HTML5-->
+<html>
+<head>
+  <title>Neil's HTML/CSS Project</title><!--shows text in tab online-->
+  <meta name="keywords" content="Autobiography"><!--describes aspects of a webpage for search engine-->
+  <style> 
+  
+      html {
+  background-color: lightcyan;
+  color: olive;
+      }
+ /*designates the background color and color of text in webpage*/
+      html {
+    font-family: "Georgia", Times, serif;
+      }
+ /*sets the font of the text in the webpage*/      
+      h1 {
+          text-align: center;
+      }
+ /*aligns h1 to the center of the webpage*/
+  </style>
+</head>
+
+<body>
+  <!--indicates the body of the website-->
+ 
+  <marquee direction="down" height="300" behavior="alternate" style="border:solid">
+  <marquee behavior="alternate" style="background-color:red;">
+  <marquee direction="down" height="300" behavior="alternate" style="border:solid">
+  <marquee behavior="alternate">
+      <!--makes images and text move in different directions-->
+    <h1>Neil's Final HTML Project</h1>
+    <!--makes text larger and bolder than usual-->
+    <center>
+    <img src="https://lh4.googleusercontent.com/PHF3bQ_Paj_L8KDDRNdiz1KNMiwE12sZXzXJ4QIedCjHRjGtsbyNSejZAi4zGkYI93yT6I7S0SXCt6fRz9UiB78Eled4gQGkvDnb=w1758-h974" width="375" alt="ESKETITTT" title="ESKETITTT">
+    </center>
+    <!--puts image into website' "width" states size, "alt" denotes alternative text, and "title" is a tooltip that shows up when you scroll over the image-->
+  </marquee>
+  </marquee>
+  </marquee>
+  </marquee>
+  <br>
+  <br>
+  <!--line break-->
+  <br>
+  <br>
+  <br>
+  <br>
+  <hr> 
+  <h2><center>Part I: Background</center></h2>
+    <p> <center>I was born on September 2, 2003, here in Chicago. I have one older brother named James (16), one younger sister named Lilah (10),   and one miniature poodle named  Parker (1). We live on the far North Side of Chicago. My mom is  Filipino and my dad is white.    My mom's parents immigrated from the Phillippines in the mid-20th century. My dad's family has been around in the United States   for centuries. Our first known ancestor, Pierre Raket, emigrated from Brussells in the early 1600s.</center>
+    <!--"p" makes a new paragraph. "center" centers the text.-->
+  <hr>
+ 
+  
+  <h2><center>Part II: Early Years</center></h2>
+    <p><center>I grew up in the Forest Glen neighborhood on the far North Side of Chicago. For the first few years of my schooling, I attended a private Montessori school in Sauganash. For grammar school, I went to Decatur Classical School in Rogers Park. Once school got out, we vacationed in either Maine or Florida, depending on the weather.</center>
+  <hr>
+  <h2><center>Part III: Middle School</center></h2>
+    <p><center>In early 2016, I was accepted into Whitney Young Academic Center. This was quite a jarring transition from Decatur. It was very different. Decatur was very small: it only had one building with one hallway with classrooms lined on either side, and a multipurpose room at the far end. I wasn't prepared for Whitney Young's bustling halls and multiple lunchrooms, buildings, and floors. Aside from the changes of the buildings themselves, I was also unprepared for my classes. Decatur had a relatibely small workload, so the amount of homework I had in 7th grade greatly contributed to my sub-par grades. My favorite subject at school is World Studies.</center>
+  <hr>
+  <h2><center>Part IV: Sports/Hobbies</center></h2>
+    <p><center>Before 7th grade, I was a very committed swimmer. I was on a swim team for a total of 7 years beforehand, and became quite proficient at the sport. Unfortunately, swimming was a very full-time commitment, one that I didn't have time for. We had biweekly swim meets and practices 5 days a week. After quitting swimming, I briefly took up fencing, but that didn't last, so I decided to play tennis. In 7th grade, I also took up rowing. I also sail recreationally, both dinghies and yachts. While not playing sports, I play guitar.</center>
+  
+  <h2><center>Part V: Present and Future</center></h2>
+    <p><center>After graduating from high school, I hope to attend a good undergrad school and then a prestigious business school like Wharton. After college, I am going to move to New York and become an investment analyst for Goldman Sachs. After twenty years in the business, I will have worked my way up to the role of managing director and will retire on some island in the West Indies.</center>
+    <ol>
+        <li>A physical goal that I have for myself is to be able to consistently pull a 1:40 split on a 2k erg.
+        <li>I don't know what an emotional goal is.
+        <li>A social goal that I would like to achieve this year is to be more friendly to people that I meet.
+    </ol>
+  <hr>
+  <b><i>I need a link so here is a link to my <a target="_blank" href "http://www.rowchicago.com/">rowing team.</a></b></i>
+  <!--"b" makes a text bold, "i" makes text italicized, "a" and "href" link a url to text or an image "target" attribute opens link in a new tab-->
+  <br>
+  <img src ="https://lh6.googleusercontent.com/VtOzbEIaiLVYrmmWQKabj1jGXI5ZOjTsZDeeL1w58K6RF1PVby8221XfD00eg8vS9UMpivGEO0g2Rs_fm058CTnWq7E7IK8E-Ugn=w1758-h974-rw" width = "400" title="rowgang2k17">
+  <br>
+  
+  </body>
+  
+  
+
+
